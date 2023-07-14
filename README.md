@@ -2,4 +2,5 @@
 test
 it is gleb
 Aboba
-new line
+new line\
+new new line
